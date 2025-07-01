@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive collection of **file-based sub-agent orchestration workflows** for Amp CLI. These workflows leverage persistent document-based communication between sub-agents to achieve superior reliability, knowledge preservation, and execution efficiency compared to traditional briefing-based approaches.
+This repository contains a comprehensive collection of **file-based sub-agent orchestration workflows** for Amp. These workflows leverage persistent document-based communication between sub-agents to achieve superior reliability, knowledge preservation, and execution efficiency compared to traditional briefing-based approaches.
 
 **Two variants available:**
 - **Full workflows** ([file-based/](file-based/)): Comprehensive analysis and documentation for complex projects
