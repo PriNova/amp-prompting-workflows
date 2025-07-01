@@ -158,7 +158,8 @@ I need to conduct market demand analysis for [TOPIC/CONCEPT/IDEA]. Store researc
 - Create: /strategy/comprehensive_research_report.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Market Analysis
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Research Focus:** [Domain]
@@ -180,7 +181,7 @@ I need to conduct market demand analysis for [TOPIC/CONCEPT/IDEA]. Store researc
 
 ## Confidence Assessment
 [Data quality evaluation]
-```
+"""
 
 **Options:** [TOPIC/CONCEPT/IDEA] using [DOCUMENT_DIRECTORY] [OPTIONAL: WITH CHECKPOINTS | REVIEW FOUNDATION | REVIEW COMPETITION | REVIEW VALIDATION]
 ```

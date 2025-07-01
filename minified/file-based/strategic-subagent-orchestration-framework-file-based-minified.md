@@ -87,7 +87,8 @@ I need to [EXECUTE PROJECT TYPE] for [PROJECT DESCRIPTION]. Store findings in [D
 - Phase 4: Execution Framework (Governance, Monitoring, Adaptation)
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Analysis
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Project Context:** [Brief description]
@@ -109,7 +110,7 @@ I need to [EXECUTE PROJECT TYPE] for [PROJECT DESCRIPTION]. Store findings in [D
 
 ## Confidence Assessment
 [Data quality evaluation]
-```
+"""
 
 **Conflict Resolution:**
 1. Main Agent identifies document contradictions

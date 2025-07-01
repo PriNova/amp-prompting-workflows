@@ -83,7 +83,8 @@ Deploy six parallel sub-agents:
 - Create: /final_report/lessons_learned.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Review Findings
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Relevant For:** [Next Phase Agents]
@@ -102,7 +103,7 @@ Deploy six parallel sub-agents:
 
 ## Conflicts/Uncertainties
 [Issues identified]
-```
+"""
 
 **Options:** [CODE CHANGE DESCRIPTION] in [REPOSITORY/BRANCH] using [DOCUMENT_DIRECTORY] [OPTIONAL: WITH CHECKPOINTS | REVIEW ANALYSIS | REVIEW RECOMMENDATIONS]
 ```

@@ -87,7 +87,8 @@ I need to fix [BUG DESCRIPTION] in unfamiliar codebase. Store findings in [DOCUM
 - Create: /verification/edge_case_testing.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Bug Analysis/Implementation
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Bug Context:** [Brief description]
@@ -109,7 +110,7 @@ I need to fix [BUG DESCRIPTION] in unfamiliar codebase. Store findings in [DOCUM
 
 ## Issues/Conflicts
 [Problems identified]
-```
+"""
 
 **Investigation Scope:**
 - Investigation sub-agents follow bottom-up approach

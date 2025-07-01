@@ -160,7 +160,8 @@ I need to create strategic plan for [GOAL DESCRIPTION]. Store all sub-agent find
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Strategic Analysis
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -188,7 +189,7 @@ Each sub-agent document must include:
 
 ## Risk Considerations
 [Strategic risks and mitigation approaches]
-```
+"""
 
 **STRATEGIC PLANNING SCOPE ISOLATION:**
 - **Foundation analysis sub-agents focus only on analysis** without attempting strategy or implementation

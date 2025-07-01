@@ -118,7 +118,8 @@ I need to perform a thorough code review for [CODE CHANGE DESCRIPTION] in [REPOS
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Analysis Findings
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -140,7 +141,7 @@ Each sub-agent document must include:
 
 ## Conflicts/Uncertainties
 [Any contradictions or unclear areas identified]
-```
+"""
 
 **CONFLICT RESOLUTION PROTOCOL:**
 1. Main Agent identifies contradictions between documents

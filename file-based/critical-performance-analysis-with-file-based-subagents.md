@@ -124,7 +124,8 @@ I need to perform critical performance analysis for [CODE CHANGE DESCRIPTION] in
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Performance Analysis
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -152,7 +153,7 @@ Each sub-agent document must include:
 
 ## Implementation Considerations
 [Practical guidance for performance improvements]
-```
+"""
 
 **PERFORMANCE ANALYSIS SCOPE ISOLATION:**
 - **Domain sub-agents focus exclusively on their performance area** without attempting system-wide optimization recommendations

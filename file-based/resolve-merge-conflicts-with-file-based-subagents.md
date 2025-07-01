@@ -132,7 +132,8 @@ I need to resolve merge conflicts for [MERGE DESCRIPTION] in [REPOSITORY/BRANCH]
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Conflict Analysis/Resolution
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -160,7 +161,7 @@ Each sub-agent document must include:
 
 ## Validation Requirements
 [Testing and verification needs]
-```
+"""
 
 **CONFLICT RESOLUTION SCOPE ISOLATION:**
 - **Analysis sub-agents focus only on their conflict domain** without attempting resolution

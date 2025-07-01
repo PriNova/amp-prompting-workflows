@@ -99,7 +99,8 @@ I need to perform feature isolation analysis for [FEATURE DESCRIPTION] in [REPOS
 - Create: /modification_guidance/validation_guidance_analysis.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Feature Analysis
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Analysis Focus:** [Domain]
@@ -124,7 +125,7 @@ I need to perform feature isolation analysis for [FEATURE DESCRIPTION] in [REPOS
 
 ## Modification Implications
 [Impact of potential changes]
-```
+"""
 
 **Feature Complexity Adaptation:**
 - Simple Features: Abbreviated workflow focusing on Phases 1, 3, 4

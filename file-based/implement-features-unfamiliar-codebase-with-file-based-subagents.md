@@ -127,7 +127,8 @@ I need to implement [FEATURE DESCRIPTION] in this unfamiliar codebase. Store all
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Analysis/Implementation
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -149,7 +150,7 @@ Each sub-agent document must include:
 
 ## Issues/Conflicts
 [Any problems or contradictions identified]
-```
+"""
 
 **FEATURE IMPLEMENTATION SCOPE ISOLATION:**
 - **Implementation sub-agents never run global checks** during development phase

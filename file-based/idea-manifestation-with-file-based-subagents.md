@@ -193,7 +193,8 @@ I need to manifest [IDEA DESCRIPTION] from concept to reality. Store all sub-age
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Analysis/Implementation
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -221,7 +222,7 @@ Each sub-agent document must include:
 
 ## Risks and Mitigation
 [Identified risks and mitigation strategies]
-```
+"""
 
 **IDEA MANIFESTATION SCOPE ISOLATION:**
 - **Ideation sub-agents focus only on creative exploration** without evaluation or planning

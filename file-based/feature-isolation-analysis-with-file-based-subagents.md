@@ -144,7 +144,8 @@ I need to perform feature isolation analysis for [FEATURE DESCRIPTION] in [REPOS
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Feature Analysis
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -172,7 +173,7 @@ Each sub-agent document must include:
 
 ## Modification Implications
 [Impact of potential feature modifications]
-```
+"""
 
 **FEATURE ANALYSIS SCOPE ISOLATION:**
 - **Discovery sub-agents focus only on their discovery domain** without analyzing dependencies or isolation strategies

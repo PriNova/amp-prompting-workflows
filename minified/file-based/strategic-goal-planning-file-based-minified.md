@@ -106,7 +106,8 @@ I need to create strategic plan for [GOAL DESCRIPTION]. Store findings in [DOCUM
 - Create: /framework/adaptation_analysis.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Strategic Analysis
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Strategic Focus:** [Domain]
@@ -131,7 +132,7 @@ I need to create strategic plan for [GOAL DESCRIPTION]. Store findings in [DOCUM
 
 ## Risk Considerations
 [Strategic risks and mitigation]
-```
+"""
 
 **Complexity Adaptation:**
 - Simple Goals (< 3 months): Abbreviated workflow with 2-3 phases

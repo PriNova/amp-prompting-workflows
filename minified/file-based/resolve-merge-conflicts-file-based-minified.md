@@ -89,7 +89,8 @@ I need to resolve merge conflicts for [MERGE DESCRIPTION] in [REPOSITORY/BRANCH]
 - Create: /validation/integration_validation_analysis.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Conflict Analysis/Resolution
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Conflict Focus:** [Domain]
@@ -114,7 +115,7 @@ I need to resolve merge conflicts for [MERGE DESCRIPTION] in [REPOSITORY/BRANCH]
 
 ## Validation Requirements
 [Testing and verification needs]
-```
+"""
 
 **Conflict Resolution Safety:**
 - Never lose code from either branch unless explicitly intended

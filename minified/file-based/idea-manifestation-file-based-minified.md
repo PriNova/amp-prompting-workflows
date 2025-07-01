@@ -133,7 +133,8 @@ I need to manifest [IDEA DESCRIPTION] from concept to reality. Store findings in
 - Create: /launch/post_launch_evaluation_analysis.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Analysis/Implementation
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Development Focus:** [Domain]
@@ -158,7 +159,7 @@ I need to manifest [IDEA DESCRIPTION] from concept to reality. Store findings in
 
 ## Risks and Mitigation
 [Risk management]
-```
+"""
 
 **Complexity Adaptation:**
 - Simple Ideas (< 1 month): Abbreviated workflow with 3-4 phases

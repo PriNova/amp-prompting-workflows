@@ -252,7 +252,8 @@ I need to [EXECUTE PROJECT TYPE] for [PROJECT DESCRIPTION]. Store all sub-agent 
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Analysis
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -277,7 +278,7 @@ Each sub-agent document must include:
 
 ## Confidence Assessment
 [Data quality and reliability evaluation]
-```
+"""
 
 **UNIVERSAL ORCHESTRATION PATTERNS:**
 

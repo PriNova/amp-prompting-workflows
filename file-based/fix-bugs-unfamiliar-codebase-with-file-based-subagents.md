@@ -131,7 +131,8 @@ I need to fix [BUG DESCRIPTION] in this unfamiliar codebase. Store all sub-agent
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Analysis/Implementation
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -156,7 +157,7 @@ Each sub-agent document must include:
 
 ## Issues/Conflicts
 [Any problems or contradictions identified]
-```
+"""
 
 **INVESTIGATION SCOPE ISOLATION:**
 - **Investigation sub-agents follow bottom-up approach** - start from failure point and work backwards

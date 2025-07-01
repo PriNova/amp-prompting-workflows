@@ -82,7 +82,8 @@ I need to implement [FEATURE DESCRIPTION] in unfamiliar codebase. Store findings
 - Create: /verification/feature_validation.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Analysis/Implementation
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Relevant For:** [Next Phase]
@@ -101,7 +102,7 @@ I need to implement [FEATURE DESCRIPTION] in unfamiliar codebase. Store findings
 
 ## Issues/Conflicts
 [Problems identified]
-```
+"""
 
 **Scope Isolation:**
 - Implementation sub-agents never run global checks during development

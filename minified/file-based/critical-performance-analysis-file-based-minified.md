@@ -87,7 +87,8 @@ I need critical performance analysis for [CODE CHANGE DESCRIPTION] in [REPOSITOR
 - Create: /implementation/performance_monitoring_analysis.md
 
 **Document Template:**
-```markdown
+
+"""markdown
 # [Domain] Performance Analysis
 **Agent:** [Name] | **Phase:** [N] | **Timestamp:** [ISO]
 **Documents Read:** [List] | **Performance Focus:** [Domain]
@@ -112,7 +113,7 @@ I need critical performance analysis for [CODE CHANGE DESCRIPTION] in [REPOSITOR
 
 ## Implementation Considerations
 [Practical guidance]
-```
+"""
 
 **Performance Standards:**
 - Quantitative analysis with measurable data and benchmarks

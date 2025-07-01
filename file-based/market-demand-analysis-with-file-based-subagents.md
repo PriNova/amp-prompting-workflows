@@ -227,7 +227,8 @@ I need to conduct comprehensive market demand analysis for [TOPIC/CONCEPT/IDEA D
 **DOCUMENT STRUCTURE REQUIREMENTS:**
 
 Each sub-agent document must include:
-```markdown
+
+"""markdown
 # [Domain] Market Analysis
 **Agent:** [Sub-Agent Name]
 **Phase:** [Phase Number]
@@ -252,7 +253,7 @@ Each sub-agent document must include:
 
 ## Confidence Assessment
 [Data quality and reliability assessment]
-```
+"""
 
 **MARKET RESEARCH SCOPE ISOLATION:**
 - **Foundation sub-agents focus only on their research domain** without analyzing opportunities
