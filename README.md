@@ -65,6 +65,24 @@ The document-based approach scales seamlessly from simple bug fixes to complex m
 ### 🏛️ **Meta-Framework**
 - **[Strategic Sub-Agent Orchestration Framework](file-based/strategic-subagent-orchestration-framework-with-file-based-communication.md)** - Unified framework covering all project types with file-based communication
 
+### 📝 **Specification Creation**
+- **[Specification Creation (Minified)](minified/file-based/specification-creation-file-based-minified.md)** - Streamlined workflow for creating technical specifications
+
+## Templates for Custom Workflows
+
+Create your own custom workflows using these standardized templates:
+
+### 📋 **Workflow Templates**
+- **[File-Based Workflow Template](file-based/TEMPLATE_FILE_BASED_WORKFLOW.md)** - Complete template for creating comprehensive custom workflows with full documentation and detailed phase breakdowns
+- **[Minified File-Based Workflow Template](minified/file-based/TEMPLATE_MINIFIED_FILE_BASED_WORKFLOW.md)** - Streamlined template for creating concise custom workflows (80-85% shorter than full workflows)
+
+### 🛠️ **Template Usage**
+1. **Choose Template Type**: Select full or minified based on your project complexity
+2. **Customize Phases**: Adapt the template phases to your specific workflow requirements
+3. **Modify Sub-Agent Tasks**: Tailor sub-agent responsibilities to your domain
+4. **Update Document Structure**: Adjust file organization to match your analysis needs
+5. **Test & Iterate**: Validate your custom workflow with real projects
+
 ## Key Advantages Over Briefing-Based Systems
 
 | Aspect | File-Based Approach | Traditional Briefing System |
